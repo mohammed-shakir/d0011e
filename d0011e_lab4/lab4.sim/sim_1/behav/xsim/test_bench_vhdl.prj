@@ -1,0 +1,22 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../code/ADDER_32.vhd" \
+"../../../../code/ALU_32.vhd" \
+"../../../../code/ARITH_32.vhd" \
+"../../../../code/ControlUnit.vhd" \
+"../../../../code/FULL_ADDER.vhd" \
+"../../../../code/FirstMipsVersion.vhd" \
+"../../../../code/LOGIC_32.vhd" \
+"../../../../code/MUX_2TO1.vhd" \
+"../../../../code/MUX_2TO1_32.vhd" \
+"../../../../code/MUX_32.vhd" \
+"../../../../code/PCPlus4.vhd" \
+"../../../../sources/Programmemory.vhd" \
+"../../../../code/Reg.vhd" \
+"../../../../code/SignExtend.vhd" \
+"../../../../code/ZeroExtend.vhd" \
+"../../../../sources/regfile.vhd" \
+"../../../../sources/test_bench.vhd" \
+
+# Do not sort compile order
+nosort

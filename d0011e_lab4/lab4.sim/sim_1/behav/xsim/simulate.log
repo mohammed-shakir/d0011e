@@ -1,0 +1,6 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Error: Assertion violation 3
+Time: 240 ns  Iteration: 0  Process: /test_bench/line__25  File: H:/code/visual_studio_code/d0011e/d0011e_lab4/sources/test_bench.vhd
+Error: Assertion violation 4
+Time: 320 ns  Iteration: 0  Process: /test_bench/line__25  File: H:/code/visual_studio_code/d0011e/d0011e_lab4/sources/test_bench.vhd

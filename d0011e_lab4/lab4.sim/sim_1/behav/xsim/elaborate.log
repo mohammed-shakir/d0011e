@@ -1,0 +1,32 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: H:/xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto d322a1d7b0b24943b1266d897f107add --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot test_bench_behav xil_defaultlib.test_bench -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture beteende of entity xil_defaultlib.FULL_ADDER [full_adder_default]
+Compiling architecture behavioral of entity xil_defaultlib.ADDER_32 [adder_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.Reg [reg_default]
+Compiling architecture behavioral of entity xil_defaultlib.PCPlus4 [pcplus4_default]
+Compiling architecture behav of entity xil_defaultlib.programmemory [programmemory_default]
+Compiling architecture behavioral of entity xil_defaultlib.ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2TO1 [mux_2to1_default]
+Compiling architecture behav of entity xil_defaultlib.Regfile [regfile_default]
+Compiling architecture behavioral of entity xil_defaultlib.SignExtend [signextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_2TO1_32 [mux_2to1_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.MUX_32 [mux_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.LOGIC_32 [logic_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.ARITH_32 [arith_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.ZeroExtend [zeroextend_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU_32 [alu_32_default]
+Compiling architecture behavioral of entity xil_defaultlib.FirstMipsVersion [firstmipsversion_default]
+Compiling architecture behavior of entity xil_defaultlib.test_bench
+Built simulation snapshot test_bench_behav
