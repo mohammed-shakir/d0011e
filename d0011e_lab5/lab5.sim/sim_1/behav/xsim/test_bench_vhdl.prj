@@ -1,0 +1,24 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../sources/ADDER.vhd" \
+"../../../../sources/ALU_32.vhd" \
+"../../../../sources/ARITH.vhd" \
+"../../../../sources/ControlUnit.vhd" \
+"../../../../lab5.srcs/sources_1/new/DataMemory.vhd" \
+"../../../../sources/FOUR_TO_ONE_MUX_32.vhd" \
+"../../../../sources/FULL_ADDER.vhd" \
+"../../../../sources/LOGIC_32.vhd" \
+"../../../../sources/MUX_2_TO_1.vhd" \
+"../../../../sources/MUX_2_TO_1_32.vhd" \
+"../../../../sources/Programmemory.vhd" \
+"../../../../lab5.srcs/sources_1/new/Regist.vhd" \
+"../../../../lab5.srcs/sources_1/new/SecondMipsVersion.vhd" \
+"../../../../sources/SignExtended.vhd" \
+"../../../../sources/ZeroExtend.vhd" \
+"../../../../sources/regfile.vhd" \
+"../../../../lab5.srcs/sources_1/new/sll32.vhd" \
+"../../../../lab5.srcs/sources_1/new/sll_26.vhd" \
+"../../../../sources/test_bench.vhd" \
+
+# Do not sort compile order
+nosort

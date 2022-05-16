@@ -1,0 +1,38 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ADDER'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/ALU_32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU_32'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/ARITH.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ARITH'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/ControlUnit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ControlUnit'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/lab5.srcs/sources_1/new/DataMemory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'DataMemory'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/FOUR_TO_ONE_MUX_32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FOUR_TO_ONE_MUX_32'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/FULL_ADDER.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FULL_ADDER'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/LOGIC_32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'LOGIC_32'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/MUX_2_TO_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MUX_2_TO_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/MUX_2_TO_1_32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MUX_2_TO_1_32'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/Programmemory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'programmemory'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/lab5.srcs/sources_1/new/Regist.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Regist'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/lab5.srcs/sources_1/new/SecondMipsVersion.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SecondMipsVersion'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/SignExtended.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'SignExtend'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/ZeroExtend.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ZeroExtend'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/regfile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Regfile'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/lab5.srcs/sources_1/new/sll32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sll_32bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/lab5.srcs/sources_1/new/sll_26.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sll_26bit'
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/code/visual_studio_code/d0011e/d0011e_lab5/sources/test_bench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_bench'
