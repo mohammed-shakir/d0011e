@@ -1,0 +1,102 @@
+/*
+
+Xilinx Vivado v2020.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3064766 on Wed Nov 18 09:12:45 MST 2020
+IP Build: 3064653 on Wed Nov 18 14:17:31 MST 2020
+
+Process ID (PID): 9688
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Fri May 28 23:02:41 CEST 2021
+Time zone: 	Central European Standard Time (Europe/Berlin)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 3840x2160
+Screen resolution (DPI): 150
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=18
+Scale size: 27
+
+Java version: 	11.0.2 64-bit
+Java home: 	E:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2
+Java executable location: 	E:/Xilinx/Vivado/2020.2/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	Vanya
+User home directory: C:/Users/Vanya
+User working directory: C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: E:/Xilinx/Vivado
+HDI_APPROOT: E:/Xilinx/Vivado/2020.2
+RDI_DATADIR: E:/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: E:/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: C:/Users/Vanya/AppData/Roaming/Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: C:/Users/Vanya/AppData/Roaming/Xilinx/Vivado/2020.2/
+Vivado layouts directory: C:/Users/Vanya/AppData/Roaming/Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	E:/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5/vivado.log
+Vivado journal file location: 	C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5/vivado.jou
+Engine tmp dir: 	C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5/.Xil/Vivado-9688-Vanya-Win7
+
+Xilinx Environment Variables
+----------------------------
+XILINX: E:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: E:/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: E:/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: E:/Xilinx/Vivado/2020.2
+XILINX_VIVADO: E:/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: E:/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	173 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,027 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cr):  Open Project : addNotify
+// Opening Vivado Project: C:\Programming\Uni work\Digitalteknik - D0011E\d0011e_lab5\lab5.xpr. Version: Vivado v2020.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5/lab5.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Programming/Uni work/Digitalteknik - D0011E/d0011e_lab5/lab5.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 141 MB (+145150kb) [00:00:11]
+// [Engine Memory]: 1,027 MB (+925731kb) [00:00:11]
+// WARNING: HEventQueue.dispatchEvent() is taking  3240 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Xilinx/Vivado/2020.2/data/ip'. 
