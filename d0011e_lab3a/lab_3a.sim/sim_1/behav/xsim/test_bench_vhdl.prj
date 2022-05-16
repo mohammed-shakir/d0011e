@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../code/ADDER.vhd" \
+"../../../../code/ARITH.vhd" \
+"../../../../code/FULL_ADDER.vhd" \
+"../../../../code/LOGIC.vhd" \
+"../../../../code/MUX.vhd" \
+"../../../../sources/test_bench.vhd" \
+
+# Do not sort compile order
+nosort
