@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+226,true,"H:/code/visual_studio_code/d0011e/d0011e_lab2/vhdl_lab.srcs/sim_1/imports/srcs/test_bench.vhd"

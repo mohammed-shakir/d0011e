@@ -1,0 +1,15 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../code/bcdcheck4.vhd" \
+"../../../../code/bcdcheck3.vhd" \
+"../../../../code/part2a.vhd" \
+"../../../../code/PLDcell.vhd" \
+"../../../../code/part3b.vhd" \
+"../../../../code/part3c.vhd" \
+"../../../../code/part4Cell.vhd" \
+"../../../../code/part4.vhd" \
+"../../../../vhdl_lab.srcs/sim_1/imports/srcs/test_bench.vhd" \
+"../../../../vhdl_lab.srcs/sim_1/imports/srcs/part3c_tb.vhd" \
+
+# Do not sort compile order
+nosort
